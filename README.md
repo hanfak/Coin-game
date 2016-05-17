@@ -8,11 +8,17 @@ The game was used as an example to teach how to design programs using UML and th
 I made my own version using the tutorial and converted it into Ruby, and added user input so the player can choose what side of the coin
 to pick. 
 
-Aim was to learn more about programming with object oriented ideas, sending messages to objects, using multiple classes, creating objects
+The aim was to learn more about programming with object oriented ideas, sending messages to objects, using multiple classes, creating objects
 in other classes, basics of ruby programming.
 
 Next I will develop a similar game using dice.
 
-To run the game, download to local and run the "coinFlipplingGame.rb" and follow the instructions.
+To run the game
+---
+fork repo
+git clone to local
+```cd Coin-game```
+```ruby coinFlipplingGame.rb```
+and follow the instructions.
 
 Enjoy.
