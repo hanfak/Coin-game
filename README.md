@@ -15,10 +15,16 @@ Next I will develop a similar game using dice.
 
 To run the game
 ---
+
 fork repo
+
 git clone to local
+
 ```cd Coin-game```
+
 ```ruby coinFlipplingGame.rb```
+
 and follow the instructions.
+
 
 Enjoy.
